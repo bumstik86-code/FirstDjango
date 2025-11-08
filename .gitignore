@@ -1,0 +1,26 @@
+# Файлы Python-компиляции
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.env/
+env/
+
+# База данных
+db.sqlite3
+*.sqlite3
+
+# Django static и media файлы (если не под версионированием)
+# /static/
+# /media/
+
+# Файлы кэша
+*.log
+*.tmp
+
+# Файлы IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
